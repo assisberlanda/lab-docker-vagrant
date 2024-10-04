@@ -15,4 +15,9 @@
 ## ⌨️ Serviços em um Cluster
     docker service ls
 ---
-[icones](✅🆑❗️‼️🔴☑️🔘)
+[icones](✅
+🆑
+❗️
+🔴
+☑️
+🔘)
