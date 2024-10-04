@@ -1,4 +1,4 @@
-# Criar máquinas Virtuais em Clusters pelo Docker
+#  ✅ Criar máquinas Virtuais em Clusters pelo Docker
 #### Acessar as maquinas pelo Vagrant
     vagrant ssh node1
     sudo su
@@ -12,12 +12,13 @@
       docker node ls
 #### Destruir VMs
     vagrant destroy
-## ⌨️ Serviços em um Cluster
+## ❗️Serviços em um Cluster
     docker service ls
 ---
-[icones](✅
+⌨️
+✅
 🆑
 ❗️
 🔴
 ☑️
-🔘)
+🔘
