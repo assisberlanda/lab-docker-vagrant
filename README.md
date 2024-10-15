@@ -15,7 +15,7 @@
 ## 🆑 Serviços em um Cluster
 #### Cria um servico de cluster com swarm de uma imagem Apache com 15 replicas
     docker service ls
-    docker service create -name web-server --replicas 15 -p 80:80 httpd
+    docker service create --name web-server --replicas 15 -p 80:80 httpd
     docker service ps web-server
 #### Retirar os containers do node1 e deixar somente para genrência
     docker node update --availability drain node1
